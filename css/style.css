@@ -49,6 +49,8 @@ h6 {
 	font-family: "Nunito Sans", sans-serif;
 }
 
+
+
 h1 {
 	font-size: 70px;
 }
@@ -680,6 +682,7 @@ ol {
 
 .banner__item.banner__item--middle {
 	margin-top: -75px;
+	margin-right: 30px;
 }
 
 .banner__item.banner__item--middle .banner__item__pic {
@@ -696,6 +699,7 @@ ol {
 
 .banner__item.banner__item--last {
 	margin-top: 100px;
+	margin-left: 50px;
 }
 
 .banner__item__pic {
@@ -714,6 +718,14 @@ ol {
 	font-weight: 700;
 	line-height: 46px;
 	margin-bottom: 10px;
+}
+
+.banner__item__text_last  {
+	color: #111111;
+	font-weight: 700;
+	line-height: 46px;
+	margin-bottom: 10px;
+	padding-left: 100px;
 }
 
 .banner__item__text a {
